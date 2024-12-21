@@ -1,0 +1,26 @@
+{
+  "name": "01-practise",
+  "version": "1.0.0",
+  "description": "This is react practice project",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tejaswip4/practise-namaste-react.git"
+  },
+  "author": "tejaswi peddina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tejaswip4/practise-namaste-react/issues"
+  },
+  "homepage": "https://github.com/Tejaswip4/practise-namaste-react#readme",
+  "devDependencies": {
+    "parcel": "^2.13.3"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}
